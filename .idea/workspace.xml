@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3737e5-b8ea-4cd0-abcb-eb5a5ca4067b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../SSh/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SSh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SSh/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SSh/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SSh/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0c3737e5-b8ea-4cd0-abcb-eb5a5ca4067b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../SSh/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -121,15 +117,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531550803276</updated>
-      <workItem from="1531550814680" duration="746000" />
+      <workItem from="1531550814680" duration="1594000" />
     </task>
+    <task id="LOCAL-00001" summary="SFGD">
+      <created>1531551659138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531551659138</updated>
+    </task>
+    <task id="LOCAL-00002" summary="这是我第三次提交">
+      <created>1531551862160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531551862160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="746000" />
+    <option name="totallyTimeSpent" value="1594000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -165,6 +177,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SFGD" />
+    <MESSAGE value="这是我第三次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="这是我第三次提交" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../SSh/src/com/company/Main.java">
